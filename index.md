@@ -1,4 +1,4 @@
-# Hello World
+# ♥ Hello World ♥
 
 This is my home page! My name is Jazmine James and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
@@ -6,7 +6,7 @@ This is my home page! My name is Jazmine James and I am a student at [Cal State 
 
 My GitHub page is http://github.com/Jazmiine9.
 
-### CPSC 120
+### CPSC 120 ♥
 
 * Lab 7
 
